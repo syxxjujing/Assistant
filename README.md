@@ -1,5 +1,5 @@
-# Occasion
-调方法的合适时机
+# Assistant
+按标签群发消息
 博客地址 https://blog.csdn.net/u014385722/article/details/82013306
 
 如果有什么疑问和建议，请加QQ群：536941874
