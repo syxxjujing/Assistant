@@ -1,6 +1,6 @@
 # Assistant
 按标签群发消息
-博客地址 https://blog.csdn.net/u014385722/article/details/82013306
+博客地址 https://www.52pojie.cn/forum.php?mod=viewthread&tid=790345&extra=page%3D1%26filter%3Dtypeid%26typeid%3D236
 
 如果有什么疑问和建议，请加QQ群：536941874
 群里会分享技术技巧，欢迎大家加入。
